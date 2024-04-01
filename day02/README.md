@@ -8,7 +8,6 @@ Use headings according to their level. (```<h1..h6>```).
 
 [Solution](src/chapter_1/)
 
-Deploy: https://sheritsh.github.io/s21_frontend_bootcamp/day02/src/chapter_1/index.html
 
 ## **Task 2.** 
 
@@ -20,4 +19,3 @@ You can choose the colors according to your preference, as long as the overall l
 
 [Solution](src/chapter_2/)
 
-Deploy: https://sheritsh.github.io/s21_frontend_bootcamp/day02/src/chapter_2/index.html
